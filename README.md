@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ton Nattapon</h1>
-<h3 align="center">A 1st year computer engineering student from Thailand</h3>
+<h3 align="center">A Computer engineering student from Thailand</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/734804501323579422/996815615337701407/coding-freak.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonnattapon&label=Profile%20views&color=0e75b6&style=flat" alt="tonnattapon" /> </p>
